@@ -1,2 +1,5 @@
-# CourtSight
+<img width="181" height="181" alt="Frame 6(2)" src="https://github.com/user-attachments/assets/14967a99-0c61-432d-b310-397076d51e96" />
+
+# CourtSight – AI-Powered Legal Intelligence for an Inclusive and Transparent Justice System
+
 We believe law should be inclusive and transparent for everyone, not just experts. AI-powered legal platform helps people across Southeast Asia, easily find and understand public Supreme Court rulings. Using LLM-based semantic search, it scans public court decisions from multiple countries and delivers relevant results in seconds. Our another standout feature is LLM-powered speech-to-text tool. During client or witness meetings, lawyers can focus on listening and asking the questions while the system transcribes, and summarizes the conversation in realtime, pulling in related rulings when needed. Design for both B2B and B2C startup model, it will serves law firms, independent lawyers, students, journalists, and researchers. By turning unstructured documents into clear and searchable insights, the platform not only delivers strong business value but also makes justice more accessible and transparent, hopefully helping more people on Southeast Asia engage with and understand the law.
